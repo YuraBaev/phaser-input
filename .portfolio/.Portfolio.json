@@ -2,7 +2,7 @@
   "name": "Phaser project for Portfolio",
   "repository": "https://github.com/YuraBaev/phaser-input",
   "demo": "http://yurabaev.github.io/phaser-input/",
-  "logo_background": "https://raw.githubusercontent.com/YuraBaev/first-html/master/.portfolio/logo_background.png",
+  "logo_background": "bg3",
   "description": "Phaser ipsum dolor sit amet, consectetur adipisicing elit. Architecto dolorem inventore minima numquam perspiciatis",
   "language": "js",
   "technology": ["html", "sass", "js"]
